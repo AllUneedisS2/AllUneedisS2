@@ -1,4 +1,5 @@
-![BominKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllUneedisS2
+[BominKim's GitHub stats]
+[BominKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllUneedisS2&show_icons=true)
 
 
 <!--
